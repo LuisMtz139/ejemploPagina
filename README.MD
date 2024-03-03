@@ -7,8 +7,9 @@
 
 
 
-##pasos de vite.config.js
+## Pasos de vite.config.js
 
+```javascript
 import {defineConfig} from 'vite';
 export default defineConfig({
     base: '/ejemploPagina/'
